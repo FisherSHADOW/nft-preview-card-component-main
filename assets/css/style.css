@@ -155,7 +155,7 @@ color: hsl(178, 100%, 50%);
 a{
     color: aliceblue;
     text-decoration: none;
-    
+
 }
 .attribution {
     font-size: 8px;
@@ -167,5 +167,9 @@ a{
 }
 .attribution a{
     color: hsla(178, 100%, 50%, 0.76);
+    text-decoration: none;
+}
+.creator-link{
+    color:aliceblue;
     text-decoration: none;
 }
