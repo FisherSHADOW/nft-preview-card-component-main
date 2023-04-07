@@ -109,3 +109,15 @@ pre{
 .avatar-title{
     color: aqua;
 }
+a{
+    text-decoration: none;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    font-size: 10px;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+color: aqua;
+}
