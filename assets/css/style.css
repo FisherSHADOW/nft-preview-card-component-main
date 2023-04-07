@@ -13,33 +13,36 @@ body{
     background-color: rgb(127, 123, 131);
 }
 .container{
-    width: 240px;
+    width: 250px;
     height: 400px;
     background-color: antiquewhite;
     border-radius: 12px;
     display: flex;
-    justify-content: center;
     box-shadow: 0px 0px 20px 2px;
 
 }
-img{
+.main-img{
     width: 210px;
     position: relative;
-    top: 18px;
-    left: 118px;
-    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 5px;
     box-shadow: 0px 0px 8px 0px;
-    display: flex;
 }
 h1{
+    font-family: 'Outfit', sans-serif;
+    margin-left: -210px;
+    margin-top: 235px;
     position: relative;
-    display: flex;
-    top: 250px;
-    right:90px
 }
+
 pre{
     position: relative;
-    display: flex;
-    top: 250px;
-    right:90px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+    font-size: 13.5px;
+    margin-top: 5px;
+    margin-left: -210px;
 }
+
+
