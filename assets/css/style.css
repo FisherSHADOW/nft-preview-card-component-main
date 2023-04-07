@@ -45,4 +45,53 @@ pre{
     margin-left: -210px;
 }
 
+.eth-icon{
+    width: 8px;
+    height: auto;
+    position: relative;
+    margin-top: 308px;
+    margin-left: -213px;
+
+}
+.price{
+    margin-top: 3px;
+}
+.eth-price{
+    position: relative;
+    margin-left: -200px;
+    margin-top: -18px;
+    font-family: 'Outfit', sans-serif ;
+    font-size: 11px;
+    font-weight: 500;
+}
+.time{
+    margin-left: 147px;
+    margin-top: 12px;
+}
+.time-icon{
+    width: 13px;
+    height: auto;
+    position: relative;
+    margin-top: 300px;
+    margin-left: -213px;
+}
+.time-text{
+    position: relative;
+    margin-left: -198px;
+    margin-top: -18px;
+    font-family: 'Outfit', sans-serif ;
+    font-size: 11px;
+    font-weight: 500;
+}
+.underline{
+    width: 209px;
+    height: 1px;
+    position: fixed;
+    margin-top: 340px;
+    margin-left: 20px;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.4;
+}
+
+
 
