@@ -154,6 +154,8 @@ color: hsl(178, 100%, 50%);
 }
 a{
     color: aliceblue;
+    text-decoration: none;
+    
 }
 .attribution {
     font-size: 8px;
