@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click to see solution page]()
-- Live Site URL: [click to see live site]()
+- Solution URL: [click to see solution page](https://www.frontendmentor.io/solutions/htmlcss-nft-preview-card-component-main-solved-00OXFOIxqs)
+- Live Site URL: [click to see live site](https://fishershadow.github.io/nft-preview-card-component-main/)
 
 ### Built with
 
